@@ -1,12 +1,12 @@
 body {
-    background-color: black;
+    background-color: black      ;
 }
 
 .Titel{
     color:#03fc84 ;
     text-align: center;
     font-size: 100px;
-     
+    
 }
 .Bild {
     width: 1000px;
@@ -16,4 +16,8 @@ body {
 
 .center {
     text-align: center;
+}
+
+.text {
+    color: aqua;
 }
