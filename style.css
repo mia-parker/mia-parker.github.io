@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+.Titel{
+    color:#03fc84 ;
+    text-align: center;
+    font-size: 100px;
+     
+}
+.Bild {
+    width: 1000px;
+    height: auto;
+    
+}
+
+.center {
+    text-align: center;
+}
